@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="EmployeeManagement/src"/>
+	<classpathentry kind="lib" path="EmployeeManagement/derby.jar"/>
+	<classpathentry kind="lib" path="EmployeeManagement/domainapptool.jar"/>
+	<classpathentry kind="lib" path="EmployeeManagement/memorybasedjavacompiler.jar"/>
+	<classpathentry kind="lib" path="EmployeeManagement/scrollabledesktop.jar"/>
+	<classpathentry kind="output" path="EmployeeManagement/bin"/>
+</classpath>
